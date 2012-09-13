@@ -1,4 +1,7 @@
 2012-9-13 yusei
+* Fix a bug. Add erp5_simulation_test to dependencies.
+
+2012-9-13 yusei
 * Fix a bug. Add erp5_simplified_invoicing to dependencies.
 
 2012-9-13 yusei
