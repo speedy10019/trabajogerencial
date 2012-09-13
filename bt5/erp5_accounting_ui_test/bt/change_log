@@ -1,3 +1,6 @@
+2012-9-13 yusei
+* Fix a bug. Add erp5_accounting_simulation_legacy to dependencies.
+
 2008-06-16 yusei
 * Update accounting_zuite/test_account_module/test_account_module_domain_tree.html
 for the recent changes of domain tree.
